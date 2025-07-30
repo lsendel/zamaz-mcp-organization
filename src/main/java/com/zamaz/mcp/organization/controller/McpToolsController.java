@@ -2,11 +2,10 @@ package com.zamaz.mcp.organization.controller;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.zamaz.mcp.common.security.McpSecurityService;
-import com.zamaz.mcp.common.security.McpSecurityException;
-import com.zamaz.mcp.common.error.McpErrorHandler;
-import com.zamaz.mcp.common.error.McpErrorResponse;
-import com.zamaz.mcp.common.resilience.McpRateLimit;
+import com.zamaz.mcp.organization.infrastructure.security.McpSecurityService;
+import com.zamaz.mcp.organization.infrastructure.error.McpErrorHandler;
+import com.zamaz.mcp.organization.infrastructure.error.McpErrorResponse;
+import com.zamaz.mcp.organization.infrastructure.resilience.McpRateLimit;
 import com.zamaz.mcp.organization.dto.OrganizationDto;
 import com.zamaz.mcp.organization.service.OrganizationService;
 import io.swagger.v3.oas.annotations.Operation;

@@ -1,9 +1,9 @@
 package com.zamaz.mcp.organization.domain.model;
 
-import com.zamaz.mcp.common.domain.model.AggregateRoot;
+import com.zamaz.mcp.organization.domain.common.AggregateRoot;
 import com.zamaz.mcp.common.domain.exception.DomainRuleViolationException;
-import com.zamaz.mcp.common.domain.model.valueobject.ApplicationId;
-import com.zamaz.mcp.common.domain.model.valueobject.TeamId;
+import com.zamaz.mcp.organization.domain.common.ApplicationId;
+import com.zamaz.mcp.organization.domain.common.TeamId;
 import com.zamaz.mcp.organization.domain.event.TeamCreatedEvent;
 import com.zamaz.mcp.organization.domain.event.TeamUpdatedEvent;
 import com.zamaz.mcp.organization.domain.event.TeamMemberAddedEvent;

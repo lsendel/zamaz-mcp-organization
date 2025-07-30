@@ -1,7 +1,7 @@
 package com.zamaz.mcp.organization.application.port.outbound;
 
 import com.zamaz.mcp.common.application.port.outbound.Repository;
-import com.zamaz.mcp.common.domain.model.valueobject.Email;
+import com.zamaz.mcp.organization.domain.common.Email;
 import com.zamaz.mcp.organization.domain.model.User;
 import com.zamaz.mcp.organization.domain.model.UserId;
 

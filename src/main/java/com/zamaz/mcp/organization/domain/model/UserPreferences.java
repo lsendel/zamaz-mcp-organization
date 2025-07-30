@@ -1,11 +1,11 @@
 package com.zamaz.mcp.organization.domain.model;
 
-import com.zamaz.mcp.common.domain.model.AggregateRoot;
+import com.zamaz.mcp.organization.domain.common.AggregateRoot;
 import com.zamaz.mcp.common.domain.exception.DomainRuleViolationException;
-import com.zamaz.mcp.common.domain.model.valueobject.ApplicationId;
-import com.zamaz.mcp.common.domain.model.valueobject.TeamId;
-import com.zamaz.mcp.common.domain.model.valueobject.ScopeType;
-import com.zamaz.mcp.common.domain.model.valueobject.SharingLevel;
+import com.zamaz.mcp.organization.domain.common.ApplicationId;
+import com.zamaz.mcp.organization.domain.common.TeamId;
+import com.zamaz.mcp.organization.domain.common.ScopeType;
+import com.zamaz.mcp.organization.domain.common.SharingLevel;
 import com.zamaz.mcp.organization.domain.event.UserPreferencesUpdatedEvent;
 
 import java.time.LocalDateTime;

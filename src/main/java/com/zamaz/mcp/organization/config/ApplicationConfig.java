@@ -1,8 +1,8 @@
 package com.zamaz.mcp.organization.config;
 
-import com.zamaz.mcp.common.application.service.TransactionManager;
-import com.zamaz.mcp.common.application.service.ValidationService;
-import com.zamaz.mcp.common.domain.event.DomainEventPublisher;
+import com.zamaz.mcp.organization.application.service.TransactionManager;
+import com.zamaz.mcp.organization.application.service.ValidationService;
+import com.zamaz.mcp.organization.domain.event.common.DomainEventPublisher;
 import com.zamaz.mcp.organization.application.port.inbound.*;
 import com.zamaz.mcp.organization.application.port.outbound.NotificationService;
 import com.zamaz.mcp.organization.application.port.outbound.OrganizationRepository;

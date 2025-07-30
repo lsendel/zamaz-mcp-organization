@@ -1,6 +1,6 @@
 package com.zamaz.mcp.organization.adapter.infrastructure.logging;
 
-import com.zamaz.mcp.common.infrastructure.logging.DomainLogger;
+import com.zamaz.mcp.organization.infrastructure.logging.DomainLogger;
 import org.slf4j.Logger;
 import org.slf4j.MDC;
 

@@ -1,6 +1,6 @@
 package com.zamaz.mcp.organization.adapter.infrastructure.transaction;
 
-import com.zamaz.mcp.common.application.service.TransactionManager;
+import com.zamaz.mcp.organization.application.service.TransactionManager;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Component;
 import org.springframework.transaction.annotation.Propagation;

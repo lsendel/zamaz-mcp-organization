@@ -1,6 +1,6 @@
 package com.zamaz.mcp.organization.adapter.external;
 
-import com.zamaz.mcp.common.architecture.adapter.external.ExternalServiceAdapter;
+import com.zamaz.mcp.organization.infrastructure.architecture.ExternalServiceAdapter;
 import com.zamaz.mcp.common.architecture.exception.ExternalServiceException;
 import com.zamaz.mcp.organization.application.port.outbound.AuthenticationService;
 import com.zamaz.mcp.organization.application.port.outbound.OrganizationRepository;

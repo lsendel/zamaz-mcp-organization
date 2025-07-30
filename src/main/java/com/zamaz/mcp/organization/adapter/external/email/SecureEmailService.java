@@ -1,8 +1,8 @@
 package com.zamaz.mcp.organization.adapter.external.email;
 
 import com.zamaz.mcp.common.architecture.exception.ExternalServiceException;
-import com.zamaz.mcp.common.infrastructure.logging.DomainLogger;
-import com.zamaz.mcp.common.infrastructure.logging.DomainLoggerFactory;
+import com.zamaz.mcp.organization.infrastructure.logging.DomainLogger;
+import com.zamaz.mcp.organization.infrastructure.logging.DomainLoggerFactory;
 import io.github.bucket4j.Bucket;
 import io.github.bucket4j.Bandwidth;
 import io.github.bucket4j.Refill;

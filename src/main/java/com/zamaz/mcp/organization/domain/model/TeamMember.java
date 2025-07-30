@@ -1,6 +1,6 @@
 package com.zamaz.mcp.organization.domain.model;
 
-import com.zamaz.mcp.common.domain.model.DomainEntity;
+import com.zamaz.mcp.organization.domain.common.DomainEntity;
 
 import java.time.LocalDateTime;
 import java.util.Objects;

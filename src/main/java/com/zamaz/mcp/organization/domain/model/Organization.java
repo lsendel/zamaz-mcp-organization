@@ -1,8 +1,8 @@
 package com.zamaz.mcp.organization.domain.model;
 
-import com.zamaz.mcp.common.domain.model.AggregateRoot;
+import com.zamaz.mcp.organization.domain.common.AggregateRoot;
 import com.zamaz.mcp.common.domain.exception.DomainRuleViolationException;
-import com.zamaz.mcp.common.domain.model.valueobject.TenantId;
+import com.zamaz.mcp.organization.domain.common.TenantId;
 import com.zamaz.mcp.organization.domain.event.OrganizationCreatedEvent;
 import com.zamaz.mcp.organization.domain.event.OrganizationUpdatedEvent;
 import com.zamaz.mcp.organization.domain.event.UserAddedToOrganizationEvent;

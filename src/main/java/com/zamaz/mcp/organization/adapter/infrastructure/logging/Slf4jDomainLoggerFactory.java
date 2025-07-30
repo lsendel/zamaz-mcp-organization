@@ -1,7 +1,7 @@
 package com.zamaz.mcp.organization.adapter.infrastructure.logging;
 
-import com.zamaz.mcp.common.infrastructure.logging.DomainLogger;
-import com.zamaz.mcp.common.infrastructure.logging.DomainLoggerFactory;
+import com.zamaz.mcp.organization.infrastructure.logging.DomainLogger;
+import com.zamaz.mcp.organization.infrastructure.logging.DomainLoggerFactory;
 import org.springframework.stereotype.Component;
 
 /**

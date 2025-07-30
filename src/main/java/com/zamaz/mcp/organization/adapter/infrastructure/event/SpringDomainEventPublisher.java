@@ -1,7 +1,7 @@
 package com.zamaz.mcp.organization.adapter.infrastructure.event;
 
-import com.zamaz.mcp.common.domain.event.DomainEvent;
-import com.zamaz.mcp.common.domain.event.DomainEventPublisher;
+import com.zamaz.mcp.organization.domain.event.common.DomainEvent;
+import com.zamaz.mcp.organization.domain.event.common.DomainEventPublisher;
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.ApplicationEventPublisher;
 import org.springframework.stereotype.Component;

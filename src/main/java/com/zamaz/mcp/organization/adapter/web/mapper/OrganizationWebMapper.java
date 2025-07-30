@@ -1,6 +1,6 @@
 package com.zamaz.mcp.organization.adapter.web.mapper;
 
-import com.zamaz.mcp.common.architecture.mapper.DomainMapper;
+import com.zamaz.mcp.organization.infrastructure.architecture.DomainMapper;
 import com.zamaz.mcp.organization.adapter.web.dto.OrganizationResponse;
 import com.zamaz.mcp.organization.application.query.OrganizationView;
 import com.zamaz.mcp.organization.domain.model.OrganizationDescription;

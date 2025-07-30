@@ -1,6 +1,6 @@
 package com.zamaz.mcp.organization.application.exception;
 
-import com.zamaz.mcp.common.application.exception.UseCaseException;
+import com.zamaz.mcp.organization.application.exception.common.UseCaseException;
 
 /**
  * Exception thrown when a user attempts unauthorized access to organization resources.

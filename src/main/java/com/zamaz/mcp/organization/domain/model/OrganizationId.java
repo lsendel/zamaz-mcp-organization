@@ -1,7 +1,7 @@
 package com.zamaz.mcp.organization.domain.model;
 
-import com.zamaz.mcp.common.domain.model.ValueObject;
-import com.zamaz.mcp.common.domain.model.valueobject.TenantId;
+import com.zamaz.mcp.organization.domain.common.ValueObject;
+import com.zamaz.mcp.organization.domain.common.TenantId;
 import java.util.Objects;
 import java.util.UUID;
 

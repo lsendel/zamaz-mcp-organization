@@ -1,6 +1,6 @@
 package com.zamaz.mcp.organization.config;
 
-import com.zamaz.mcp.security.filter.JwtAuthenticationFilter;
+import com.zamaz.mcp.organization.infrastructure.security.JwtAuthenticationFilter;
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

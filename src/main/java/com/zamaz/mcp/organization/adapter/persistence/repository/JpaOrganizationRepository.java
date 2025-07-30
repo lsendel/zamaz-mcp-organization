@@ -1,6 +1,6 @@
 package com.zamaz.mcp.organization.adapter.persistence.repository;
 
-import com.zamaz.mcp.common.architecture.adapter.persistence.PersistenceAdapter;
+import com.zamaz.mcp.organization.infrastructure.architecture.PersistenceAdapter;
 import com.zamaz.mcp.common.architecture.exception.PersistenceException;
 import com.zamaz.mcp.organization.adapter.persistence.mapper.OrganizationPersistenceMapper;
 import com.zamaz.mcp.organization.application.port.outbound.OrganizationRepository;

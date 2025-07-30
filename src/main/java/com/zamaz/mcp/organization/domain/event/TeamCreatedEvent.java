@@ -1,6 +1,6 @@
 package com.zamaz.mcp.organization.domain.event;
 
-import com.zamaz.mcp.common.domain.event.AbstractDomainEvent;
+import com.zamaz.mcp.organization.domain.event.common.AbstractDomainEvent;
 import java.util.UUID;
 
 /**

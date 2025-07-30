@@ -1,6 +1,6 @@
 package com.zamaz.mcp.organization.domain.service;
 
-import com.zamaz.mcp.common.domain.service.DomainService;
+import com.zamaz.mcp.organization.domain.service.common.DomainService;
 import com.zamaz.mcp.common.domain.exception.DomainRuleViolationException;
 import com.zamaz.mcp.organization.domain.model.*;
 

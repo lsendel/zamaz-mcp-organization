@@ -1,6 +1,6 @@
 package com.zamaz.mcp.organization.domain.model;
 
-import com.zamaz.mcp.common.domain.model.ValueObject;
+import com.zamaz.mcp.organization.domain.common.ValueObject;
 import java.util.Objects;
 import java.util.UUID;
 

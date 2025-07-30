@@ -1,6 +1,6 @@
 package com.zamaz.mcp.organization.application.command;
 
-import com.zamaz.mcp.common.application.command.Command;
+
 import com.zamaz.mcp.organization.domain.model.OrganizationId;
 import com.zamaz.mcp.organization.domain.model.UserId;
 

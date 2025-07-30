@@ -1,8 +1,8 @@
 package com.zamaz.mcp.organization.adapter.persistence.mapper;
 
-import com.zamaz.mcp.common.architecture.mapper.DomainMapper;
-import com.zamaz.mcp.common.domain.model.valueobject.Email;
-import com.zamaz.mcp.common.domain.model.valueobject.Name;
+import com.zamaz.mcp.organization.infrastructure.architecture.DomainMapper;
+import com.zamaz.mcp.organization.domain.common.Email;
+import com.zamaz.mcp.organization.domain.common.Name;
 import com.zamaz.mcp.organization.adapter.persistence.entity.UserEntity;
 import com.zamaz.mcp.organization.domain.model.User;
 import com.zamaz.mcp.organization.domain.model.UserId;

@@ -1,8 +1,8 @@
 package com.zamaz.mcp.organization.adapter.persistence.repository;
 
-import com.zamaz.mcp.common.architecture.adapter.persistence.PersistenceAdapter;
+import com.zamaz.mcp.organization.infrastructure.architecture.PersistenceAdapter;
 import com.zamaz.mcp.common.architecture.exception.PersistenceException;
-import com.zamaz.mcp.common.domain.model.valueobject.Email;
+import com.zamaz.mcp.organization.domain.common.Email;
 import com.zamaz.mcp.organization.adapter.persistence.mapper.UserPersistenceMapper;
 import com.zamaz.mcp.organization.application.port.outbound.UserRepository;
 import com.zamaz.mcp.organization.domain.model.User;

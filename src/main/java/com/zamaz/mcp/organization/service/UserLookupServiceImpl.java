@@ -1,6 +1,6 @@
 package com.zamaz.mcp.organization.service;
 
-import com.zamaz.mcp.common.security.UserLookupService;
+import com.zamaz.mcp.organization.infrastructure.security.UserLookupService;
 import com.zamaz.mcp.organization.repository.UserRepository;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

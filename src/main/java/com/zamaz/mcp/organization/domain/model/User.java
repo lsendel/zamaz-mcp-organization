@@ -1,8 +1,8 @@
 package com.zamaz.mcp.organization.domain.model;
 
-import com.zamaz.mcp.common.domain.model.DomainEntity;
-import com.zamaz.mcp.common.domain.model.valueobject.Email;
-import com.zamaz.mcp.common.domain.model.valueobject.Name;
+import com.zamaz.mcp.organization.domain.common.DomainEntity;
+import com.zamaz.mcp.organization.domain.common.Email;
+import com.zamaz.mcp.organization.domain.common.Name;
 import com.zamaz.mcp.common.domain.exception.DomainRuleViolationException;
 
 import java.time.LocalDateTime;

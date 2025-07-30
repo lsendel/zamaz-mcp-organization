@@ -1,6 +1,6 @@
 package com.zamaz.mcp.organization.adapter.infrastructure.validation;
 
-import com.zamaz.mcp.common.application.service.ValidationService;
+import com.zamaz.mcp.organization.application.service.ValidationService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Component;
 

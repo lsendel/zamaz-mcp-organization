@@ -1,6 +1,6 @@
 package com.zamaz.mcp.organization.application.exception;
 
-import com.zamaz.mcp.common.application.exception.ResourceNotFoundException;
+import com.zamaz.mcp.organization.application.exception.common.ResourceNotFoundException;
 
 /**
  * Exception thrown when a user is not found.

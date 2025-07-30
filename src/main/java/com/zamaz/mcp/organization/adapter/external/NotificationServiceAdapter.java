@@ -1,8 +1,8 @@
 package com.zamaz.mcp.organization.adapter.external;
 
-import com.zamaz.mcp.common.architecture.adapter.external.ExternalServiceAdapter;
-import com.zamaz.mcp.common.infrastructure.logging.DomainLogger;
-import com.zamaz.mcp.common.infrastructure.logging.DomainLoggerFactory;
+import com.zamaz.mcp.organization.infrastructure.architecture.ExternalServiceAdapter;
+import com.zamaz.mcp.organization.infrastructure.logging.DomainLogger;
+import com.zamaz.mcp.organization.infrastructure.logging.DomainLoggerFactory;
 import com.zamaz.mcp.organization.adapter.external.email.EmailTemplate;
 import com.zamaz.mcp.organization.adapter.external.email.SecureEmailService;
 import com.zamaz.mcp.organization.application.port.outbound.NotificationService;
